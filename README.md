@@ -21,7 +21,7 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
 
 ## Cryptoloan Details
 
-  * Cryptoloan is used to get loan using BTC as colletaral
+  * Cryptoloan is used to get loan using BTC as collateral
   * Cryptoloan is used to get notifications on price alter
 
   * Document of the Project is present in Report.pdf
